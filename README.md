@@ -3,6 +3,8 @@
 Contact List App
 This is a simple React Native app that displays a list of contacts and allows you to search for specific contacts by name. When you click on a contact, it displays a popup with the contact's details.
 
+https://github.com/shaikirshad77/ContactsApp/assets/122390244/24293c1c-6c5a-46d2-bbec-3352fd497a05
+
            Installation :
 
 1. Make sure you have Node.js and npm installed on your machine.
@@ -35,13 +37,6 @@ A QR code will be displayed in the terminal. Scan the QR code with the Expo app 
 • Displays contact details in a popup when a contact is clicked (name and number)
 
 https://github.com/shaikirshad77/ContactsApp/assets/122390244/24293c1c-6c5a-46d2-bbec-3352fd497a05
-
-
-
-https://github.com/shaikirshad77/ContactsApp/assets/122390244/3023a383-b25a-4a02-a0c1-b996b856e3ad
-
-.
-
 
      Dependencies
      
