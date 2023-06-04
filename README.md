@@ -8,10 +8,16 @@ https://github.com/shaikirshad77/ContactsApp/assets/122390244/24293c1c-6c5a-46d2
            Installation :
 
 1. Make sure you have Node.js and npm installed on your machine.
+    
+       => npm install -g expo-cli
 
 2. Clone this repository or download the source code.
 
 3. Open a terminal and navigate to the project directory.
+ 
+       => expo init ContactsApp
+       => cd ContactsApp
+       => expo install react-navigation react-navigation-stack react-native-reanimated react-native-gesture-handler
 
 4. Run the following command to install the dependencies:
   
@@ -36,7 +42,6 @@ A QR code will be displayed in the terminal. Scan the QR code with the Expo app 
 
 • Displays contact details in a popup when a contact is clicked (name and number)
 
-https://github.com/shaikirshad77/ContactsApp/assets/122390244/24293c1c-6c5a-46d2-bbec-3352fd497a05
 
      Dependencies
      
